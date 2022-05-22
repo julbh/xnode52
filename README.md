@@ -4,4 +4,4 @@
 
 <!-- <h3 align="center">Connect with me: ad.hjb.gidshd@gmail.com</h3> -->
 <!-- <h3 align="center">Telegram: @xnode52</h3> -->
-<h3 align="center">Discord: shibra#3185</h3>
+<!-- <h3 align="center">Discord: shibra#3185</h3> -->
